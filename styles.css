@@ -1,0 +1,52 @@
+/* Global Styles */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Head Styles */
+head {
+  /* Add your specific styles for the <head> tag here */
+}
+
+/* Navigation Styles */
+nav {
+  background-color: #f9f9f9;
+  padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+}
+
+/* Main Styles */
+main {
+  padding: 20px;
+}
+
+/* Footer Styles */
+footer {
+  background-color: #f9f9f9;
+  padding: 20px;
+  text-align: center;
+  font-size: 14px;
+}
