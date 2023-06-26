@@ -87,6 +87,44 @@ main {
     text-align: justify;
   }
   
+  /* Article Styles */
+article {
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+    border: 1px solid #dda978;
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  
+  article .media {
+    flex: 0 0 50%;
+    margin-right: 20px;
+  }
+  
+  article .media img,
+  article .media video {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  article .content {
+    flex: 1;
+  }
+  
+  article h3 {
+    font-size: 24px;
+    margin-top: 0;
+    background-color: #dda978;
+    color: #fff;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  article p {
+    margin-bottom: 0;
+  }
+  
   /* Footer Styles */
   footer {
     background-color: #333;
