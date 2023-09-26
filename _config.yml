@@ -121,10 +121,10 @@ fonts:
   heading: "Merriweather"
   base: "Open Sans"
   monospace: "Fira Mono"
-  logo: "Open Sans"
+  logo: "Fira Mono"
 
 logo:
-  logo_text: "dreyfusballesi"
+  logo_text: "[dreyfus-ballesi]"
   logo_image: assets/images/logo/logo.png
   logo_image_mobile: assets/images/logo/logo-mobile.png
   logo_image_invert: assets/images/logo/logo-invert.png
