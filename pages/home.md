@@ -2,10 +2,10 @@
 layout: home
 permalink: "/"
 title: "Hello I'm <a href='/'>Kai</a>, a <em>creative coder</em> and <em>computer scientist</em>."
-description: "I create beautiful premium themes for Jekyll and the Jamstack 🔨✨"
+description: ""
 image: "/assets/images/homepage.png"
 
-meta_description: "Jekyll Origin is a premium Jekyll blog theme"
+meta_description: ""
 meta_title: dreyfusballesi
 
 posts:

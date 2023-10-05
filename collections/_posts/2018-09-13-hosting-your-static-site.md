@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Hosting Your Static Site"
+title: "CLEO: A Wild Encounter"
 date: 2018-09-13T05:22:42Z
-authors: ["Sage Kirk", "Mike Vance"]
+authors: ["Kai Dreyfus-Ballesi"]
 categories: ["Hosting", "Development"]
 description: "Hosting your website as a static site will improve performance and improve security."
 thumbnail: "/assets/images/gen/blog/blog-1-thumbnail.webp"
