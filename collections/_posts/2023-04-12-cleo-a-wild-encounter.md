@@ -7,6 +7,14 @@ categories: ["Robotics", "Design", "HCI"]
 description: "Prototype of an animatronic owl installation, made with Arduino."
 thumbnail: "/assets/images/gen/blog/cleo-thumbnail.png"
 image: "/assets/images/gen/blog/cleo-thumbnail.png"
+
+posts:
+  heading: "Recent projects"
+  limit: 3
+  sort: date # date | weight
+  view_more_button_text: "View Projects"
+  view_more_button_link: /projects
+  columns: 3 # 1 | 2 | 3 | 4
 ---
 
 This is Cleo, an installation of a robotic wild owl. This installation places the user in an interaction with a 'wild' animal,where the user can try to calm the animal down and gain its trust. Cleo will watch the light warily, keeping an eye out for any signs of danger. Any sudden movements will put Cleo on guard, closing her wings around herself for protection. As Cleo grows accustomed to the light, she opens her wings up. Moving the light slowly and carefully will put Cleo at ease.

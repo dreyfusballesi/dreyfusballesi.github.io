@@ -107,7 +107,7 @@ colors:
 
   # dark-mode colors
   primary_dark: "#2A7FE4"
-  primary_2_dark: "#eed2d9"
+  primary_2_dark: "#E2E9FF"
   primary_text_dark: "#f9fafb"
   background_dark: "#121418"
   background_2_dark: "#1d2026"
