@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: "/"
-title: "Hello I'm <a href='/contact'>Kai</a>, a creative <strong>designer</strong> and <em>coder</em>."
+title: "Hello I'm <a href='/'>Kai</a>, a <em>creative coder</em> and <em>computer scientist</em>."
 description: "I create beautiful premium themes for Jekyll and the Jamstack 🔨✨"
 image: "/assets/images/homepage.png"
 
@@ -13,6 +13,6 @@ posts:
   limit: 3
   sort: date # date | weight
   view_more_button_text: "View Projects"
-  view_more_button_link: /blog
+  view_more_button_link: /projects
   columns: 3 # 1 | 2 | 3 | 4
 ---
